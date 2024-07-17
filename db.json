@@ -1,0 +1,44 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "country": "USA",
+      "name": "New York"
+    },
+    {
+      "name": "London",
+      "country": "Uk",
+      "id": 2
+    },
+    {
+      "name": "Delhi",
+      "country": "India",
+      "id": 3
+    },
+    {
+      "name": "Dubai",
+      "country": "Arab",
+      "id": 4
+    },
+    {
+      "name": "Seoul",
+      "country": "South Korea",
+      "id": 5
+    },
+    {
+      "name": "test1",
+      "country": "test2",
+      "id": 6
+    },
+    {
+      "name": "test3",
+      "country": "test4",
+      "id": 7
+    },
+    {
+      "name": "test4",
+      "country": "test5",
+      "id": 8
+    }
+  ]
+}
